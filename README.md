@@ -1,30 +1,34 @@
 # 💫 About Me:
 
-I'm a results-driven Business Analyst with over 3 years of experience in optimizing business operations through data-driven insights and strategic decision-making. My expertise lies in gathering, analyzing, and interpreting complex data to help organizations streamline processes, enhance performance, and drive business growth.
+Hi there, I'm Vrushabh Jayesh Kakkad 👋
+I am a Business Analyst and current M.Sc. Web and Data Science student at the University of Koblenz, Germany. I specialize in turning complex data into clear, actionable strategies that help businesses grow.
 
-With proficiency in tools like Oracle SQL, PL/SQL, Python, and Power BI, I have successfully translated business requirements into actionable data solutions. My strong analytical skills and ability to communicate findings in a clear and actionable manner have enabled me to effectively contribute to key business strategies.
+With over 3.5 years of experience at Tata Consultancy Services, I’ve moved beyond just "looking at numbers"—I build data solutions that streamline operations and solve real-world problems.
 
-Currently, I work as a System Engineer at Tata Consultancy Services, where I collaborate with cross-functional teams to implement data-driven strategies, improve operational workflows, and enhance business outcomes for clients.
+🚀 What I’m working on:
+Bridging the Gap: Combining my background as a System Engineer with advanced studies in Web and Data Science to build more intelligent, data-driven applications.
 
+Data Storytelling: Using SQL, Python, and Power BI to translate technical findings into "human" insights for stakeholders.
 
-# 📚 Projects:
+Global Learning: Exploring the latest in web technologies and data modeling in a multicultural academic environment.
 
-Microsoft Power BI (HR Analytics Dashboard): Developed an interactive dashboard to provide insights into employee performance and retention metrics. By incorporating KPIs, charts, and DAX queries, I enabled data-
-driven decisions that resulted in a 3% reduction in employee turnover.
+🛠 My Toolkit
+Soft Skills: Stakeholder Management • Analytical Thinking • Cross-functional Collaboration • Clear Communication
 
-Python (E-commerce Sales Analysis): Leveraged Python (NumPy, Pandas, Matplotlib) to analyze e-commerce sales data, providing actionable insights for inventory management and sales forecasting, helping improve operational efficiency.
+📚 Featured Projects
+Here’s how I’ve been applying my skills to solve real problems. I’m constantly adding new work from my Master’s studies!
 
-Excel (Retail Store Data Evaluation): Conducted data cleaning, processing, and analysis, creating a dynamic Excel dashboard to optimize sales strategies and stock levels in retail stores.
+📊 HR Analytics Dashboard | Power BI & DAX
+Developed an interactive dashboard to track employee performance and retention.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![MS Power-BI](https://img.shields.io/badge/Power%20BI-FFB11A?style=for-the-badge&logo=powerbi&logoColor=white)
-![MS Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+Result: Enabled data-driven decisions that led to a 3% reduction in turnover.
 
+🛒 E-commerce Sales Analysis | Python (Pandas, Matplotlib)
+Used Python to dive deep into sales data, focusing on inventory management and forecasting.
 
-# 👨🏻‍💼 Soft Skills: 
-Analytical Thinking & Problem Solving,
-Clear Communication (Written & Verbal),
-Stakeholder Management,
-Cross-Functional Collaboration
+Result: Improved operational efficiency through clearer sales insights.
+
+🛍 Retail Store Evaluation | Advanced Excel
+Created a dynamic system for data cleaning and processing to optimize retail stock levels.
+
+Result: Streamlined sales strategies through visual data evaluation.
