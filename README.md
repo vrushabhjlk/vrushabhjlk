@@ -13,6 +13,7 @@ Data Storytelling: Using SQL, Python, and Power BI to translate technical findin
 Global Learning: Exploring the latest in web technologies and data modeling in a multicultural academic environment.
 
 🛠 My Toolkit
+
 Soft Skills: Stakeholder Management • Analytical Thinking • Cross-functional Collaboration • Clear Communication
 
 📚 Featured Projects
